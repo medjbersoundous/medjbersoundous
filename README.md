@@ -30,6 +30,10 @@ I'm a junior fullstack developer and computer science student with a passion for
 
 #
 
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medjbersoundous&layout=compact)
+
 ### 📊 Stats
 
 ![Soundous's GitHub stats](https://github-readme-stats.vercel.app/api?username=medjbersoundous&show_icons=true&theme=gruvbox)
