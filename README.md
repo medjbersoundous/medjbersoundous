@@ -18,10 +18,13 @@ I'm a junior fullstack developer and computer science student with a passion for
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <br />
 
@@ -35,4 +38,4 @@ I'm a junior fullstack developer and computer science student with a passion for
 
 <details>
  <summary><h3>👩‍💻 Soundous's Coding Journey</h3></summary>
-   I started my coding journey as a committed computer science student with a passion for web development. My journey has been filled with learning and exploration, from mastering frontend technologies like HTML, CSS, and JavaScript to diving into backend development with Node.js, Express.js, and databases like MongoDB and MySQL. I'm constantly seeking new challenges and opportunities to grow as a developer.
+   I started my coding journey as a committed computer science student with a passion for web development. My journey has been filled with learning and exploration, from mastering frontend technologies like react js to diving into backend development with Node.js, Express.js, and databases like MongoDB and MySQL. I'm constantly seeking new challenges and opportunities to grow as a developer.
