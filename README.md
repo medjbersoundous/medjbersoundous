@@ -30,6 +30,8 @@ I'm a junior fullstack developer and computer science student with a passion for
 
 #
 
+<div  style="display: flex; justify-content: space-between;">
+
 ### 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medjbersoundous&layout=compact)
@@ -37,6 +39,8 @@ I'm a junior fullstack developer and computer science student with a passion for
 ### 📊 Stats
 
 ![Soundous's GitHub stats](https://github-readme-stats.vercel.app/api?username=medjbersoundous&show_icons=true&theme=gruvbox)
+
+</div>
 
 #
 
