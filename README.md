@@ -30,7 +30,7 @@ I'm a junior fullstack developer and computer science student with a passion for
 
 #
 
-<div  style="display: flex; justify-content: space-between;">
+<div  style="display: flex; flex-direction:row; justify-content: space-between;">
 
 ### 📊 Most Used Languages
 
