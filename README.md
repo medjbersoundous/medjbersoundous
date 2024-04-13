@@ -8,7 +8,7 @@ I'm a junior fullstack developer and computer science student with a passion for
 
 ## 🔗 Links
 
-[![linkedin](https://www.linkedin.com/in/soundous-medjber-03419221b/)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soundous-medjber-03419221b/)
 
 ### 🧰 Languages and Tools
 
