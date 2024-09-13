@@ -46,9 +46,7 @@ I'm a junior fullstack developer and computer science student with a passion for
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medjbersoundous&theme=gruvbox)
 
-### 🏆 GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=medjbersoundous&theme=gruvbox)
 
 </div>
 
