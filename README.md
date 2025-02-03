@@ -2,7 +2,7 @@
 
 **`Fullstack Developer and Committed Computer Science Student`**
 
-I'm a junior fullstack developer and computer science student with a passion for web development. My focus lies in the dynamic world of fullstack development, from crafting engaging user interfaces to handling server-side logic and databases. I'm dedicated to staying on the cutting edge of technology and constantly honing my skills.
+I'm a fullstack developer and computer science student with a passion for web development. My focus lies in the dynamic world of fullstack development, from crafting engaging user interfaces to handling server-side logic and databases. I'm dedicated to staying on the cutting edge of technology and constantly honing my skills.
 
 ---
 
