@@ -53,17 +53,11 @@ I'm a second-year Master's student in Software Engineering and Information Proce
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medjbersoundous&theme=radical" alt="GitHub Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=medjbersoundous&theme=radical" alt="Top Languages" height="200"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medjbersoundous&theme=radical" alt="Most Commit Language" height="200"/>
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medjbersoundous&theme=radical" alt="GitHub Stats" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=medjbersoundous&theme=radical" alt="Productive Time" height="200"/>
 </div>
 
 ---
