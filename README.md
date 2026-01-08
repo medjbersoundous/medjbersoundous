@@ -55,21 +55,26 @@ I'm a second year Master's student in Software Engineering and Information Proce
 ---
 
 ---
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- Most Used Language -->
+<!-- First row: Most Used Language & GitHub Stats side by side -->
+<table>
+  <tr>
+    <td>
+      ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medjbersoundous&theme=radical)
+    </td>
+    <td>
+      ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medjbersoundous&theme=radical)
+    </td>
+  </tr>
+</table>
 
-![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medjbersoundous&theme=radical)
-
-<!-- GitHub Stats -->
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medjbersoundous&theme=radical)
-
-<!-- Streak Stats -->
-
+<!-- Second row: Streak centered -->
+<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medjbersoundous&theme=radical&hide_border=true)
 
 </div>
