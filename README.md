@@ -2,7 +2,7 @@
 
 **`Fullstack Developer | Master's Student | Tech Instructor`**
 
-I'm a second-year Master's student in Software Engineering and Information Processing, passionate about building innovative solutions. As a Fullstack Development Instructor at Code213, I help aspiring developers master modern web technologies. My interests span across AI, IoT, and cutting-edge web development, always exploring how technology can solve real-world problems.
+I'm a second year Master's student in Software Engineering and Information Processing, passionate about building innovative solutions. As a Fullstack Development Instructor at Code213, I help aspiring developers master modern web technologies. My interests span across AI, IoT, and cutting-edge web development, always exploring how technology can solve real-world problems.
 
 ---
 
@@ -54,10 +54,11 @@ I'm a second-year Master's student in Software Engineering and Information Proce
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medjbersoundous&theme=radical" alt="Most Commit Language" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medjbersoundous&theme=radical" alt="GitHub Stats" height="200"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medjbersoundous&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=medjbersoundous&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -71,7 +72,3 @@ I'm a second-year Master's student in Software Engineering and Information Proce
 - 📚 Continuously learning and growing in the tech space
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=medjbersoundous&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
