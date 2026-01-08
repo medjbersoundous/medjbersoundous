@@ -55,6 +55,7 @@ I'm a second year Master's student in Software Engineering and Information Proce
 ---
 
 ---
+
 ---
 
 ## 📊 GitHub Statistics
@@ -65,11 +66,14 @@ I'm a second year Master's student in Software Engineering and Information Proce
 <table>
   <tr>
     <td>
-      ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medjbersoundous&theme=radical)
+    ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=medjbersoundous&layout=compact&theme=radical)
+
     </td>
     <td>
-      ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medjbersoundous&theme=radical)
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medjbersoundous&show_icons=true&theme=radical)
+
     </td>
+
   </tr>
 </table>
 
