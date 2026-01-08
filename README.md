@@ -1,58 +1,84 @@
-# 🚀 Soundous Medjber
+# 👋 Hi, I'm Soundous Medjber
 
-**`Fullstack Developer and Committed Computer Science Student`**
+**`Fullstack Developer | Master's Student | Tech Instructor`**
 
-I'm a fullstack developer and computer science student with a passion for web development. My focus lies in the dynamic world of fullstack development, from crafting engaging user interfaces to handling server-side logic and databases. I'm dedicated to staying on the cutting edge of technology and constantly honing my skills.
+I'm a second-year Master's student in Software Engineering and Information Processing, passionate about building innovative solutions. As a Fullstack Development Instructor at Code213, I help aspiring developers master modern web technologies. My interests span across AI, IoT, and cutting-edge web development, always exploring how technology can solve real-world problems.
 
 ---
 
-## 🔗 Links
+## 🔗 Connect With Me
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soundous-medjber-03419221b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soundous-medjber-03419221b/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medjbersoundous)
 
-### 🧰 Languages and Tools
+---
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<br />
+## 💻 Tech Stack
 
-#
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 📊 Most Used Languages
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medjbersoundous&layout=compact)
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 📊 Stats
-
-![Soundous's GitHub stats](https://github-readme-stats.vercel.app/api?username=medjbersoundous&show_icons=true&theme=gruvbox)
-
-### 📈 Current Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medjbersoundous&theme=gruvbox)
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
+---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medjbersoundous&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medjbersoundous&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
-#
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medjbersoundous&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<details>
- <summary><h3>👩‍💻 Soundous's Coding Journey</h3></summary>
-   I started my coding journey as a committed computer science student with a passion for web development. My journey has been filled with learning and exploration, from mastering frontend technologies like React.js to diving into backend development with Node.js, Express.js, and databases like MongoDB and MySQL. I'm constantly seeking new challenges and opportunities to grow as a developer.
-</details>
+---
+
+## 🎯 Current Focus
+
+- 🎓 Pursuing Master's in Software Engineering and Information Processing
+- 👨‍🏫 Teaching Fullstack Development at Code213
+- 🤖 Exploring AI technologies and applications
+- 🌐 Building IoT solutions
+- 📚 Continuously learning and growing in the tech space
+
+---
+
+## 📫 Get In Touch
+
+Feel free to reach out for collaborations, teaching opportunities, or just a chat about technology!
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=medjbersoundous&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
